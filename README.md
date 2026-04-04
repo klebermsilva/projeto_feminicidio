@@ -30,12 +30,8 @@ Este projeto foi desenvolvido com o objetivo de construir um pipeline completo d
 
 ## 🧱 Arquitetura
 
-```mermaid
-flowchart LR
-    A[API JSON] --> B[ETL Python]
-    B --> C[MySQL DW]
-    C --> D[Power BI]
-```
+<img width="1536" height="1024" alt="ChatGPT Image 2 de abr  de 2026, 23_47_16" src="https://github.com/user-attachments/assets/7b232d7f-e797-4044-abb8-de630bbf56a4" />
+
 
 ---
 
@@ -109,9 +105,8 @@ projeto_feminicidio/
 ## 📸 Preview do Dashboard
 
 <p align="center">
-  <img src="docs/dashboard.png" width="700">
+<img width="1024" height="1536" alt="book" src="https://github.com/user-attachments/assets/c474c194-bfa3-41db-8d10-a92d72bbfccd" />
 </p>
-
 ---
 
 
